@@ -1,7 +1,19 @@
 ﻿using MyLibraryDemo2;
 
-int i = 5;
-string name = "Hello";
+Employee Maria = new Secretary();
+Maria.Name = "Maria";
 
-Product Leche;
-Leche = new Product(1, "Leche Entera", 19, 100);
+Employee Pedro = new Manager();
+Pedro.Name = "Pedro";
+
+Developer Miguel = new Developer();
+
+WriteEmployee(Maria);
+WriteEmployee(Pedro);
+WriteEmployee(Miguel);
+
+void WriteEmployee(Employee employee)
+{
+	Console.WriteLine($"{employee.Name}: {employee.CalculateMonthlyPayment()}");
+	Console.WriteLine($"Days: {employee.GetPaymentDays()}");
+}
