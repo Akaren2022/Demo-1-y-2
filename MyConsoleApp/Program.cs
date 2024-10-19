@@ -4,7 +4,12 @@
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello, World!");
+			MessageWritter MyWritter = new MessageWritter();
+			MyWritter.Write("Hello, Writter!");
+
+			FiggleWritter figgleWritter = new FiggleWritter();
+			figgleWritter.Write("Hello, Figgle!");
+			
 		}
 	}
 }

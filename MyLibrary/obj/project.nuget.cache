@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/5jcJ8Cm4ac=",
+  "dgSpecHash": "i4TsS685mEs=",
   "success": true,
   "projectFilePath": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\Demo01\\MyLibrary\\MyLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Zarkprogame\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
   "logs": []
 }
