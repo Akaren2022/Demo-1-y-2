@@ -4,8 +4,6 @@ C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\bin\Debug\net8.0\MyConsol
 C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
 C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
 C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\bin\Debug\net8.0\Figgle.dll
-C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\bin\Debug\net8.0\MyLibrary.dll
-C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\bin\Debug\net8.0\MyLibrary.pdb
 C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.AssemblyReference.cache
 C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
@@ -18,3 +16,5 @@ C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\obj\Debug\net8.0\refint\M
 C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
 C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
 C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\bin\Debug\net8.0\MyLibraryDemo1.dll
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyConsoleApp\bin\Debug\net8.0\MyLibraryDemo1.pdb

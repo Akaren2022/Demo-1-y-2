@@ -1,43 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
-      "Figgle/0.5.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Figgle.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/Figgle.dll": {
-            "related": ".xml"
-          }
-        }
-      }
-    }
+    "net8.0": {}
   },
-  "libraries": {
-    "Figgle/0.5.1": {
-      "sha512": "F21k9oOGRgSb+1dCX0kFDYRBbShSMFvL49xjNmF/dsJwiN5M7zBaSWsYKpi/KZWXVIIxNzTbNTq9ZciucaHYMQ==",
-      "type": "package",
-      "path": "figgle/0.5.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "figgle.0.5.1.nupkg.sha512",
-        "figgle.nuspec",
-        "lib/netstandard2.0/Figgle.dll",
-        "lib/netstandard2.0/Figgle.xml",
-        "logo-square-256px.png"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": [
-      "Figgle >= 0.5.1"
-    ]
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\Zarkprogame\\.nuget\\packages\\": {}
@@ -45,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\Demo01\\MyLibrary\\MyLibraryDemo1.csproj",
-      "projectName": "MyLibraryDemo1",
-      "projectPath": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\Demo01\\MyLibrary\\MyLibraryDemo1.csproj",
+      "projectUniqueName": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\Demo01\\MyLibraryDemo2\\MyLibraryDemo2.csproj",
+      "projectName": "MyLibraryDemo2",
+      "projectPath": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\Demo01\\MyLibraryDemo2\\MyLibraryDemo2.csproj",
       "packagesPath": "C:\\Users\\Zarkprogame\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\Demo01\\MyLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Zarkprogame\\MyCode\\Aitana\\Demo01\\MyLibraryDemo2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zarkprogame\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,12 +51,6 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
-        "dependencies": {
-          "Figgle": {
-            "target": "Package",
-            "version": "[0.5.1, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

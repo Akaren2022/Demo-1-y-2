@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyConsoleApp", "MyConsoleApp\MyConsoleApp.csproj", "{8D519B06-D0E3-4061-89BA-7B6EA89C15FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyConsoleApp", "MyConsoleApp\MyConsoleApp.csproj", "{8D519B06-D0E3-4061-89BA-7B6EA89C15FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{C4FD0FD6-4983-4814-9063-F08EB2F516F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLibraryDemo1", "MyLibrary\MyLibraryDemo1.csproj", "{C4FD0FD6-4983-4814-9063-F08EB2F516F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

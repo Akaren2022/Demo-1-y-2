@@ -1,0 +1,13 @@
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\bin\Debug\net8.0\MyLibraryDemo1.deps.json
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\bin\Debug\net8.0\MyLibraryDemo1.dll
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\bin\Debug\net8.0\MyLibraryDemo1.pdb
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\obj\Debug\net8.0\MyLibraryDemo1.csproj.AssemblyReference.cache
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\obj\Debug\net8.0\MyLibraryDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\obj\Debug\net8.0\MyLibraryDemo1.AssemblyInfoInputs.cache
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\obj\Debug\net8.0\MyLibraryDemo1.AssemblyInfo.cs
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\obj\Debug\net8.0\MyLibraryDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\obj\Debug\net8.0\MyLibraryDemo1.sourcelink.json
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\obj\Debug\net8.0\MyLibraryDemo1.dll
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\obj\Debug\net8.0\refint\MyLibraryDemo1.dll
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\obj\Debug\net8.0\MyLibraryDemo1.pdb
+C:\Users\Zarkprogame\MyCode\Aitana\Demo01\MyLibrary\obj\Debug\net8.0\ref\MyLibraryDemo1.dll

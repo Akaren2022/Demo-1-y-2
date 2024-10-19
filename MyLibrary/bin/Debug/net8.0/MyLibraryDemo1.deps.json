@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "MyConsoleApp/1.0.0": {
+      "MyLibraryDemo1/1.0.0": {
         "dependencies": {
-          "MyLibraryDemo1": "1.0.0"
+          "Figgle": "0.5.1"
         },
         "runtime": {
-          "MyConsoleApp.dll": {}
+          "MyLibraryDemo1.dll": {}
         }
       },
       "Figgle/0.5.1": {
@@ -21,22 +21,11 @@
             "fileVersion": "0.5.1.0"
           }
         }
-      },
-      "MyLibraryDemo1/1.0.0": {
-        "dependencies": {
-          "Figgle": "0.5.1"
-        },
-        "runtime": {
-          "MyLibraryDemo1.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
   "libraries": {
-    "MyConsoleApp/1.0.0": {
+    "MyLibraryDemo1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -47,11 +36,6 @@
       "sha512": "sha512-F21k9oOGRgSb+1dCX0kFDYRBbShSMFvL49xjNmF/dsJwiN5M7zBaSWsYKpi/KZWXVIIxNzTbNTq9ZciucaHYMQ==",
       "path": "figgle/0.5.1",
       "hashPath": "figgle.0.5.1.nupkg.sha512"
-    },
-    "MyLibraryDemo1/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }
